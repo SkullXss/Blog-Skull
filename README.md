@@ -6,7 +6,6 @@ This is a personal blog website created by "Skull". It showcases information abo
 
 - [About Me](#about-me)
 - [Social Media](#social-media)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [License](#license)
 
@@ -22,18 +21,13 @@ You can connect with Skull on various social media platforms:
 - [GitHub](https://github.com/SkullXss)
 - [Instagram](https://instagram.com/skull.xss?igshid=OGQ5ZDc2ODk2ZA==)
 
-## Screenshots
-
-![Screenshot 1](url_to_screenshot_1)
-![Screenshot 2](url_to_screenshot_2)
-
 ## Installation
 
 To view this blog locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/SkullXss/Blog-Skull.git`
 2. Open the `index.html` file in your web browser.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.

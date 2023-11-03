@@ -1,0 +1,62 @@
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNUjN_dmVIqXjuunQ0QX5iWEH5l3AAUT7MQ&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+  width: 40%;
+  margin: 0 auto;
+  background-color: #fff;
+  background-opacity: .7;
+  color: #000;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+main {
+  width: 70%;
+  margin: 0 auto;
+  border: 2px solid #fff;
+  border-radius: 20px;
+  padding: 20px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0iNo2qoYUJNoSFWFCcYs3z-RMnWqkcpWM26KF5Ug7A&s");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: serif, sans-serif;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #0073e6;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  
